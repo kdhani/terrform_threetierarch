@@ -2,11 +2,11 @@ variable "region" {
 }
 
 variable "main_cidr_block" {
-  type    = string
+  type    = string  // variable type
 }
 
 variable "public_cidr_blocks" {
-  type    = list(string)
+  type    = list(string) // list of strinngs
 }
 
 
