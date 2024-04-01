@@ -16,3 +16,21 @@ corepack enable
 corepack prepare yarn@stable --activate --yes
 
 sudo yarn global add pm2
+
+
+git clone https://github.com/AnkitJodhani/2nd10WeeksofCloudOps.git
+
+
+npm install
+
+npm run build
+
+sudo cp -r build/* /var/www/html
+
+
+
+
+
+
+
+
