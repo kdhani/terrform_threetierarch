@@ -18,6 +18,9 @@ corepack prepare yarn@stable --activate --yes
 sudo yarn global add pm2
 
 
+
+""" --- type in ec2 terminal---
+
 git clone https://github.com/AnkitJodhani/2nd10WeeksofCloudOps.git
 
 
@@ -29,7 +32,7 @@ sudo cp -r build/* /var/www/html
 
 
 
-
+"""
 
 
 
